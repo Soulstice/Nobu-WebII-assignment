@@ -1,0 +1,71 @@
+
+@import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:700);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,800,600,700,300);
+@import url(//fonts.googleapis.com/css?family=Bree+Serif);
+@import url(//fonts.googleapis.com/css?family=ABeeZee);
+
+
+
+body {
+
+}
+
+div#topHeaderRow {
+  background-color: #072926;
+  height: 4em;
+  font-size: 0.8em;
+  color: #34495e;
+  padding-top: 1em;
+  font-family: "ABeeZee";
+}
+div#topHeaderRow  a:link { 
+  color: #BBBBBB ;
+}
+
+footer {
+  background-color: #072926;
+     color: white;
+}
+
+footer a:link {
+   color: #a3d2f1;
+}
+
+.bottomspacing {
+   margin-bottom: 8px;
+}
+
+#postJumbo {
+   background-image: url(images/post-background.jpg);
+}
+#postJumbo h1 {
+   margin-top: 0;
+}
+
+.postlist h2 {
+  margin-top: 0; 
+}
+
+.postlist div.details {
+  text-transform: uppercase;
+  font-size: 0.8em;
+}
+
+.postlist p.excerpt {
+  margin-top: 0.4em;
+}
+
+.modal-backdrop.in {
+		opacity: 0.5;
+	}
+
+.center {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.modal-dialog {
+	width:80%;
+	
+}

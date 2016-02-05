@@ -1,0 +1,48 @@
+.modal-backdrop.in {
+		opacity: 0.5;
+	}
+
+.center {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.modal-dialog {
+	width:80%;
+}
+
+.table caption {
+	color: black;
+	font-size: 300%;
+	margin: auto;
+  text-align: center;
+}
+
+div .bigImg img {
+	right: 80%;
+	top: 0%;
+    z-index: +1;
+	position: absolute;
+	border: outset 5px #072926;
+	background-color:#34495e;
+	border-radius: 20px;
+	margin:5px;
+	padding:5px;
+}
+
+.mapContainer {
+	height:100%;
+	background-color:#4e5d6c;
+}
+  
+#map { 
+height: 500px; 
+border: outset 5px #072926;
+}
+
+.mapContainer .btn-default {
+	margin-top: 8px;
+	margin-bottom: 0px;
+	border: outset 5px #072926;
+}
